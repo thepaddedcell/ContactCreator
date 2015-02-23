@@ -1,0 +1,10 @@
+PODS:
+  - RHAddressBook (1.1.1)
+
+DEPENDENCIES:
+  - RHAddressBook (~> 1.1)
+
+SPEC CHECKSUMS:
+  RHAddressBook: 0cad9d33b9494d1e28323b62e5c7afc109cc4294
+
+COCOAPODS: 0.35.0
